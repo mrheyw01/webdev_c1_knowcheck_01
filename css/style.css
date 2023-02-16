@@ -118,12 +118,6 @@ body {
     flex: 1;
 }
 
-ul li{
-    display: inline;
-    flex-basis: auto;
-    font-size: 5px;
-  }
-
 .footer-container {
     background: #1b1b27;
     display: flex;
