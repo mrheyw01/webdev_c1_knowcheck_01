@@ -109,6 +109,21 @@ body {
     
 }
 
+.contact-me {
+    background: #1b1b27;
+    color: #F1F1F1;
+    box-sizing: border-box;
+    padding: 1em;
+    text-align: center;
+    flex: 1;
+}
+
+ul li{
+    display: inline;
+    flex-basis: auto;
+    font-size: 5px;
+  }
+
 .footer-container {
     background: #1b1b27;
     display: flex;
